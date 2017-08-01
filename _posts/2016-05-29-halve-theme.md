@@ -2,6 +2,7 @@
 layout: post
 title:  "Halve Jekyll Theme"
 date:   2016-05-29
+comments: true
 excerpt: "Stylish, two-column Jekyll theme for your blog."
 tag:
 - jekyll 
